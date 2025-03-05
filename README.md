@@ -1,6 +1,6 @@
 # Mustafa Kurtoğlu
 
-![Profile Banner](https://mustafakurtoglu.github.io/Project/index.html/banner.jpg)  
+![Profile Banner](https://mustafakurtoglu.github.io/Project/view/public/img/Working_man.png)  
 
 ## 👋 About Me
 I am a **Data & BI Specialist** with expertise in **Python, SQL, Azure Data Services, and data management**. My work focuses on handling large datasets, model deployment, and governance while ensuring data integrity and compliance. I enjoy collaborating across teams to develop **AI-driven solutions** that drive business value. 
